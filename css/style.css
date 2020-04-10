@@ -1,0 +1,450 @@
+/*
+Colors phyllis
+gray 	#666
+green	#AACC11
+*/
+
+/* cormorant-garamond-500italic - latin */
+@font-face {
+  font-family: 'Cormorant Garamond';
+  font-style: italic;
+  font-weight: 500;
+  src: local('Cormorant Garamond Medium Italic'), local('CormorantGaramond-MediumItalic'),
+       url('../fonts/cormorant-garamond-v7-latin-500italic.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/cormorant-garamond-v7-latin-500italic.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+/* roboto-regular - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 400;
+  src: local('Roboto'), local('Roboto-Regular'),
+       url('../fonts/roboto-v20-latin-regular.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto-v20-latin-regular.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+/* roboto-700 - latin */
+@font-face {
+  font-family: 'Roboto';
+  font-style: normal;
+  font-weight: 700;
+  src: local('Roboto Bold'), local('Roboto-Bold'),
+       url('../fonts/roboto-v20-latin-700.woff2') format('woff2'), /* Chrome 26+, Opera 23+, Firefox 39+ */
+       url('../fonts/roboto-v20-latin-700.woff') format('woff'); /* Chrome 6+, Firefox 3.6+, IE 9+, Safari 5.1+ */
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    background-color: #CCCCCC;
+    color: #000000;
+    font-family: Times, serif, "Times New Roman";
+    font-size: 12px;
+    font-stretch: normal;
+    text-align: center;
+    -webkit-text-size-adjust: none;
+}
+
+a {
+    color: #666;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+a:hover {
+    color: #ac1;
+}
+
+#rightCol a {
+    border-bottom: dotted 1px #ddd;
+}
+
+#rightCol a.artist,
+#rightCol .exhibit a {
+    border: none;
+}
+
+img {
+    border: none;
+}
+
+.gray {
+    color: #808080;
+}
+
+.green {
+    color: #ac1;
+}
+
+hr {
+    border: 0;
+    color: #fff;
+    border-bottom: dotted 1px #e1e1e1;
+}
+
+.italic {
+    font-style: italic;
+}
+
+.left-tab {
+    padding-left: 30px;
+}
+
+.text-right {
+    text-align: right;
+}
+
+/* google fonts */
+.garamond {
+    font-family: 'Cormorant Garamond', serif;
+    font-size: 14px;
+    font-weight: 500;
+    font-style: italic;
+}
+
+.frutiger {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: 1px;
+}
+
+.frutiger-bold {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 700;
+    font-style: normal;
+    letter-spacing: 1px;
+}
+
+#frame {
+    width: 840px;
+    height: auto;
+    overflow: hidden;
+    margin: 20px auto;
+    background-color: #FFFFFF;
+}
+
+#leftCol {
+    position: relative;
+    float: left;
+    width: 330px;
+    top: 260px;
+    left: 30px;
+    text-align: right;
+}
+
+#rightCol {
+    position: relative;
+    float: right;
+    width: 360px;
+    top: 50px;
+    right: 50px;
+    height: auto;
+    min-height: 550px;
+    margin-bottom: 100px;
+    overflow: hidden;
+    text-align: left;
+}
+
+#credits {
+    clear: both;
+    position: relative;
+    background-color: #CCCCCC;
+    padding-top: 5px;
+    text-align: center;
+    font-size: 9px;
+    color: #666;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#credits a {
+    color: #fff;
+    font-size: 9px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: normal;
+}
+
+#address_header {
+    height: 54px;
+    width: 330px;
+    line-height: 54px;
+    overflow: hidden;
+    text-indent: -999em;
+    display: block;
+}
+
+#artists, #exhibits, #gallery, #project_room, #coney_island, #moes_meat_market, #artnet, #contact {
+    height: 25px;
+    width: 330px;
+    line-height: 25px;
+    overflow: hidden;
+    text-indent: -999em;
+    display: block;
+    margin-top: 3px;
+}
+
+/* menu */
+#address_header {
+    background: url('../images/address_header.gif') top right no-repeat;
+}
+
+#artists {
+    background: url('../images/artists.gif') top right no-repeat;
+}
+
+#exhibits {
+    background: url('../images/exhibits.gif') top right no-repeat;
+}
+
+#gallery {
+    background: url('../images/gallery.gif') top right no-repeat;
+}
+
+#project_room {
+    background: url('../images/project_room.gif') top right no-repeat;
+}
+
+#coney_island {
+    background: url('../images/coney_island_exhibit.gif') top right no-repeat;
+}
+
+#moes_meat_market {
+    background: url('../images/moes_meat_market.gif') top right no-repeat;
+}
+
+#artnet {
+    background: url('../images/artnet.gif') top right no-repeat;
+}
+
+#contact {
+    background: url('../images/contact.gif') top right no-repeat;
+}
+
+#artists:hover, #exhibits:hover, #gallery:hover, #project_room:hover, #coney_island:hover, #moes_meat_market:hover, #artnet:hover, #contact:hover {
+    background-position: bottom right;
+}
+
+/* moes gallery site */
+img.moes_galleryImg {
+    margin-top: 25px;
+}
+
+#moes0 {
+    background: url('http://www.phyllisstigliano.com/images/moes_meat_market/Paintings/name.gif') 0px 0px no-repeat;
+}
+
+#moes1 {
+    background: url('http://www.phyllisstigliano.com/images/moes_meat_market/Sculpture/name.gif') 0px 0px no-repeat;
+}
+
+#moes2 {
+    background: url('http://www.phyllisstigliano.com/images/moes_meat_market/Wall_Works/name.gif') 0px 0px no-repeat;
+}
+
+#moes0:hover, #moes1:hover, #moes2:hover {
+    background-position: 0px -25px;
+}
+
+#pastshow {
+    margin: 15px;
+    padding: 10px 20px;
+    line-height: 1.5em;
+    background-color: #EEEEEE;
+}
+
+/* artists page */
+.artist {
+    position: relative;
+    float: left;
+    width: 150px;
+    padding: 0 10px;
+    height: 138px;
+    overflow: hidden;
+    margin: 15px 5px;
+}
+
+.artist .title {
+    margin: 5px 0;
+    font-size: 11px;
+}
+
+/* artist bio */
+#bioImg {
+    text-align: right;
+    font-size: 11px;
+    line-height: 1.3em;
+}
+
+#headers {
+    padding: 10px 0px;
+}
+
+#headers .title {
+    font-size: 11px;
+    margin: 0 0 10px;
+}
+
+#xtralink {
+    text-align: right;
+}
+
+.artlink {}
+
+#bioTxt {
+    font-family: Times, serif, "Times New Roman";
+    line-height: 1.6em;
+}
+
+/* exhibits */
+div.niki {
+    height: 400px;
+    overflow: hidden;
+    text-align: left;
+    background: url('http://www.phyllisstigliano.com/images/exhibits/Niki_de_Saint_Phalle/main..jpg') 20px 0px no-repeat;
+}
+
+div.niki:hover, div.sfhover {
+    background-position: 20px -400px;
+}
+
+div.exhibit {
+    width: 100%;
+    height: auto;
+    overflow: hidden;
+    margin: 0 0 30px;
+    padding-bottom: 20px;
+    border-bottom: 1px dotted #e1e1e1;
+}
+
+.exhibCredits {
+    text-align: right;
+    font-size: 11px;
+    line-height: 1.3em;
+    padding: 15px 0;
+}
+
+.exhibInfo {
+    text-align: left;
+    line-height: 17px;
+}
+
+.exhibInfo .header {
+    margin: 2px 0;
+}
+
+.exhibInfo .title {
+    font-size: 20px;
+    font-weight: 500;
+    margin-bottom: 5px;
+}
+
+.exhibImg {}
+
+.exhibTxt {
+    margin: 25px 0;
+}
+
+.img_thb {
+    position: relative;
+    float: left;
+    width: 70px;
+    height: 105px;
+    margin: 0 2px 2px 0;
+}
+
+.img_lrg {
+    display: none;
+}
+
+.credits {
+    height: 50px;
+    width: 360px;
+    margin: 5px 0px;
+    text-align: center;
+    font-size: 10px;
+    overflow: hidden;
+}
+
+#thumbs {
+    clear: both;
+    position: relative;
+    margin: 10px 0;
+    overflow: hidden;
+}
+
+.coneyHeader, .exhibHeader {
+    width: 360px;
+    text-align: right;
+    margin-bottom: 40px;
+}
+
+.coneytitle, .exhibTitle {
+    color: #666;
+    text-decoration: none;
+    font-weight: normal;
+    font-size: 15px;
+}
+
+.moesTitle {
+    color: #666;
+    font-size: 18px;
+    margin-bottom: 6px;
+}
+
+.coneyImg {
+    float: left;
+    width: 360px;
+    height: 200px;
+    text-align: right;
+    font-size: 10px;
+}
+
+.coneyImg img {
+    margin-bottom: 5px;
+}
+
+.coneyFooter {
+    clear: both;
+    width: 100%;
+    float: left;
+}
+
+h1, .h1 {
+    font-size: 14px;
+}
+
+h2, .h2 {
+    font-size: 13px;
+}
+
+h3 {
+    font-size: 15px;
+    font-weight: normal;
+}
+
+.clearfix {
+    clear: both;
+}
+
+img.pastExImg {
+    float: left;
+    width: 140px;
+    margin: 0 10px 10px 0;
+}
+
+img.pastTitle {
+    float: left;
+    width: 196px;
+    margin: 0 0 15px;
+}
+
+#past_exhibits .title {
+    font-size: 21px;
+    margin: 0 0 2px;
+}
+
+#past_exhibits .subtitle {
+    font-size: 17px;
+    margin: 0;
+    padding-left: 170px;
+}
