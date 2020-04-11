@@ -1,0 +1,116 @@
+	
+	<!DOCTYPE html>
+	<html lang="en-US">
+	<head>
+		
+		<meta charset="utf-8" />
+		<title>Innovative Artists</title>
+		
+		
+<meta name="description" content="">
+<meta name="keywords" content="gallery, art, contemporary, Mary Whitfield, african american artist, Frances Hynes, John Himmelfarb, Howard Seth Miller, Robert Kobayashi, Ave Maria, Carrie Iverson, George Hildrew, Barbara Ensor">		
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="index,follow">
+	<meta name="author" content="Phyllis Stigliano">
+		
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<script type="text/javascript" src="js/script.js"></script>
+		
+			</head>
+	
+	<body>
+		
+		<div id="frame">
+			<div id="leftCol">
+				<a href="index" id="address_header" title="Welcome To Phyllis Stigliano Art Gallery, 62 eighth Ave, Park Slope Brooklyn NY 11217"></a><br />
+				<a href="artists" id="artists" title="Artists Represented by Phyllis Stigliano"></a>
+				<a href="exhibits" id="exhibits" title="Current Exhibit at the Gallery"></a>
+				<a href="gallery" id="gallery" title="About Phyllis Stigliano Contemporary Art Gallery"></a>
+				<a href="project_room" id="project_room" title="Project Room with Carrie Iverson"></a>
+				<a href="coney_island" id="coney_island" title="Coney Island Panoramic Photos by Ron Meisel"></a>
+				<a href="moes_meat_market" id="moes_meat_market" title="Moe's Meat Market, a gallery"></a>
+				<a href="https://www.artnet.com/galleries/phyllis-stigliano-gallery/" target="_blank" id="artnet" title="Works for acquisition on artnet"></a>
+				<a href="contact" id="contact" title="Contact Info, Location &amp; Hours of the Gallery"></a>
+				
+			</div>
+			
+			<div id="rightCol">
+					<a class="artist" href="Ave_Maria" title="View Ave Maria Bio and Art">
+		<img src="data/artists/Ave_Maria/art.jpg" width="150" height="113" alt="Detail of Ave Maria artwork" />
+		<h3 class="title frutiger-bold">
+			AVE MARIA		</h3>
+	</a>
+		<a class="artist" href="Brandon_d_Leo" title="View Brandon d'Leo Bio and Art">
+		<img src="data/artists/Brandon_d_Leo/art.jpg" width="150" height="113" alt="Detail of Brandon d'Leo artwork" />
+		<h3 class="title frutiger-bold">
+			BRANDON D'LEO		</h3>
+	</a>
+		<a class="artist" href="John_Himmelfarb" title="View John Himmelfarb Bio and Art">
+		<img src="data/artists/John_Himmelfarb/art.jpg" width="150" height="113" alt="Detail of John Himmelfarb artwork" />
+		<h3 class="title frutiger-bold">
+			JOHN HIMMELFARB		</h3>
+	</a>
+		<a class="artist" href="Frances_Hynes" title="View Frances Hynes Bio and Art">
+		<img src="data/artists/Frances_Hynes/art.jpg" width="150" height="113" alt="Detail of Frances Hynes artwork" />
+		<h3 class="title frutiger-bold">
+			FRANCES HYNES		</h3>
+	</a>
+		<a class="artist" href="Kate_Keller" title="View Kate Keller Bio and Art">
+		<img src="data/artists/Kate_Keller/art.jpg" width="150" height="113" alt="Detail of Kate Keller artwork" />
+		<h3 class="title frutiger-bold">
+			KATE KELLER		</h3>
+	</a>
+		<a class="artist" href="Robert_Kobayashi" title="View Robert Kobayashi Bio and Art">
+		<img src="data/artists/Robert_Kobayashi/art.jpg" width="150" height="113" alt="Detail of Robert Kobayashi artwork" />
+		<h3 class="title frutiger-bold">
+			ROBERT KOBAYASHI		</h3>
+	</a>
+		<a class="artist" href="Howard_Seth_Miller" title="View Howard Seth Miller Bio and Art">
+		<img src="data/artists/Howard_Seth_Miller/art.jpg" width="150" height="113" alt="Detail of Howard Seth Miller artwork" />
+		<h3 class="title frutiger-bold">
+			HOWARD SETH MILLER		</h3>
+	</a>
+		<a class="artist" href="Mary_Frances_Whitfield" title="View Mary F. Whitfield Bio and Art">
+		<img src="data/artists/Mary_Frances_Whitfield/art.jpg" width="150" height="113" alt="Detail of Mary F. Whitfield artwork" />
+		<h3 class="title frutiger-bold">
+			MARY F. WHITFIELD		</h3>
+	</a>
+		<a class="artist" href="George_Hildrew" title="View George Hildrew Bio and Art">
+		<img src="data/artists/George_Hildrew/art.jpg" width="150" height="113" alt="Detail of George Hildrew artwork" />
+		<h3 class="title frutiger-bold">
+			GEORGE HILDREW		</h3>
+	</a>
+		<a class="artist" href="Sylvie_Buchler" title="View Sylvie Buchler Bio and Art">
+		<img src="data/artists/Sylvie_Buchler/art.jpg" width="150" height="113" alt="Detail of Sylvie Buchler artwork" />
+		<h3 class="title frutiger-bold">
+			SYLVIE BUCHLER		</h3>
+	</a>
+				</div>
+			
+			<div id="credits">
+				&copy; 2004-2020 Phyllis Stigliano Gallery. All rights reserved.
+				<a href="http://www.siliconfarm.com" title="Silicon Farm Design &amp; IT Solutions">Built by www.siliconfarm.com</a>
+			</div>
+			
+		</div>
+		
+		<script type="text/javascript">
+		
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-363407-12']);
+		_gaq.push(['_trackPageview']);
+		
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+		})();
+		
+		</script>
+		
+	</body>
+	</html>
+	
+	
+		
+	

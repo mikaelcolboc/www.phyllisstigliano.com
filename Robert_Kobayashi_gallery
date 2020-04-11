@@ -1,0 +1,180 @@
+	
+	<!DOCTYPE html>
+	<html lang="en-US">
+	<head>
+		
+		<meta charset="utf-8" />
+		<title>Robert Kobayashi, Selected Artworks</title>
+		
+		
+<meta name="description" content="Robert Kobayashi was born in Honolulu, Hawaii, and is known for his inimitable use of tin. He achieves a fresh interpretation using raw tin, painted tin, and textured ceiling tin.">
+<meta name="keywords" content="Robert Kobayashi, raw tin, painted tin, textured ceiling tin, intricate strips shapes, nails collages, bold colors, vivid expressionistic tin work, paintings sculpture">		
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="index,follow">
+	<meta name="author" content="Phyllis Stigliano">
+		
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<script type="text/javascript" src="js/script.js"></script>
+		
+			</head>
+	
+	<body>
+		
+		<div id="frame">
+			<div id="leftCol">
+				<a href="index" id="address_header" title="Welcome To Phyllis Stigliano Art Gallery, 62 eighth Ave, Park Slope Brooklyn NY 11217"></a><br />
+				<a href="artists" id="artists" title="Artists Represented by Phyllis Stigliano"></a>
+				<a href="exhibits" id="exhibits" title="Current Exhibit at the Gallery"></a>
+				<a href="gallery" id="gallery" title="About Phyllis Stigliano Contemporary Art Gallery"></a>
+				<a href="project_room" id="project_room" title="Project Room with Carrie Iverson"></a>
+				<a href="coney_island" id="coney_island" title="Coney Island Panoramic Photos by Ron Meisel"></a>
+				<a href="moes_meat_market" id="moes_meat_market" title="Moe's Meat Market, a gallery"></a>
+				<a href="https://www.artnet.com/galleries/phyllis-stigliano-gallery/" target="_blank" id="artnet" title="Works for acquisition on artnet"></a>
+				<a href="contact" id="contact" title="Contact Info, Location &amp; Hours of the Gallery"></a>
+				
+			</div>
+			
+			<div id="rightCol">
+					<div id="large1" class="img_lrg">
+		<img src="data/artists/Robert_Kobayashi/img1_lrg.jpg" alt="Robert_Kobayashi artwork" width="360" height="324" />
+		<br />
+		<div class="credits">
+			<b>Several Views of Francine</b>, ceiling tin, paint, nails on wood,<br />24.5" x 27"" x 2" &copy;2008		</div>
+	</div>
+		<div id="large2" class="img_lrg">
+		<img src="data/artists/Robert_Kobayashi/img2_lrg.jpg" alt="Robert_Kobayashi artwork" width="360" height="324" />
+		<br />
+		<div class="credits">
+			<b>Rue des St. Peres, 1950</b>, ceiling tin, paint, nails on wood, 24&quot; x 24&quot; x 1.5&quot; &copy;2007		</div>
+	</div>
+		<div id="large3" class="img_lrg">
+		<img src="data/artists/Robert_Kobayashi/img3_lrg.jpg" alt="Robert_Kobayashi artwork" width="360" height="324" />
+		<br />
+		<div class="credits">
+			<b>White on White, 2012</b>, ceiling tin, paint, nails on wood, 36 x 24 x 1 inches.<br />Photo: &copy;Kate Keller.		</div>
+	</div>
+		<div id="large4" class="img_lrg">
+		<img src="data/artists/Robert_Kobayashi/img4_lrg.jpg" alt="Robert_Kobayashi artwork" width="360" height="324" />
+		<br />
+		<div class="credits">
+			<b>Bobby Chong's Sister, Sin Moi, 2009</b>, ceiling tin, paint, nails on wood,<br />20 x 17 x 6 inches. Photo: &copy;Kate Keller.
+		</div>
+	</div>
+		<div id="large5" class="img_lrg">
+		<img src="data/artists/Robert_Kobayashi/img5_lrg.jpg" alt="Robert_Kobayashi artwork" width="360" height="324" />
+		<br />
+		<div class="credits">
+			<b>Red Wall</b>, ceiling tin, paint, nails on wood, 18 x 16 x 1.5 inches, &copy;1997		</div>
+	</div>
+		<div id="large6" class="img_lrg">
+		<img src="data/artists/Robert_Kobayashi/img6_lrg.jpg" alt="Robert_Kobayashi artwork" width="360" height="324" />
+		<br />
+		<div class="credits">
+			<b>Ionic Order #3, 1986</b>, ceiling tin, paint, nails on wood, 32 x 33 x 1.5 inches, &copy;1986
+		</div>
+	</div>
+		<div id="large7" class="img_lrg">
+		<img src="data/artists/Robert_Kobayashi/img7_lrg.jpg" alt="Robert_Kobayashi artwork" width="360" height="324" />
+		<br />
+		<div class="credits">
+			<b>Ionic Order #6, 1986</b>, ceiling tin, paint, nails on wood, 32 x 33 x 1.5 inches, &copy;1986
+		</div>
+	</div>
+		<div id="large8" class="img_lrg">
+		<img src="data/artists/Robert_Kobayashi/img8_lrg.jpg" alt="Robert_Kobayashi artwork" width="360" height="324" />
+		<br />
+		<div class="credits">
+			<b>Ionic Order #11, 1986</b>, ceiling tin, paint, nails on wood, 32 x 41 x 2 inches, &copy;1986
+		</div>
+	</div>
+		<div id="large9" class="img_lrg">
+		<img src="data/artists/Robert_Kobayashi/img9_lrg.jpg" alt="Robert_Kobayashi artwork" width="360" height="324" />
+		<br />
+		<div class="credits">
+			<b>Ionic Order #12, 1986</b>, ceiling tin, paint, nails on wood, 24 x 32 x 2 inches, &copy;1986
+		</div>
+	</div>
+		<div id="large10" class="img_lrg">
+		<img src="data/artists/Robert_Kobayashi/img10_lrg.jpg" alt="Robert_Kobayashi artwork" width="360" height="324" />
+		<br />
+		<div class="credits">
+			<b>Ionic Order #14, 1986</b>, ceiling tin, paint, nails on wood, 32 x 41 x 2 inches, &copy;1986
+		</div>
+	</div>
+	<script type="text/javascript">
+document.getElementById('large1').style.display='block';
+</script>
+
+<div id="headers">
+	<h1 class="title green frutiger-bold">
+		ROBERT KOBAYASHI	</h1>
+	<div id="xtralink"></div>
+	<div class="artlink">
+		<a href="Robert_Kobayashi" title="Bio of RobertKobayashi">
+			Back to Robert's Biography
+		</a>
+	</div>
+</div>
+
+<div id="thumbs">
+			<div class="img_thb" onmouseover="changeImg('1');" onmousedown="changeImg('1');">
+			<img src="data/artists/Robert_Kobayashi/img1_thb.jpg" alt="Robert_Kobayashi artwork detail" width="70" height="105" />
+		</div>
+				<div class="img_thb" onmouseover="changeImg('2');" onmousedown="changeImg('2');">
+			<img src="data/artists/Robert_Kobayashi/img2_thb.jpg" alt="Robert_Kobayashi artwork detail" width="70" height="105" />
+		</div>
+				<div class="img_thb" onmouseover="changeImg('3');" onmousedown="changeImg('3');">
+			<img src="data/artists/Robert_Kobayashi/img3_thb.jpg" alt="Robert_Kobayashi artwork detail" width="70" height="105" />
+		</div>
+				<div class="img_thb" onmouseover="changeImg('4');" onmousedown="changeImg('4');">
+			<img src="data/artists/Robert_Kobayashi/img4_thb.jpg" alt="Robert_Kobayashi artwork detail" width="70" height="105" />
+		</div>
+				<div class="img_thb" onmouseover="changeImg('5');" onmousedown="changeImg('5');">
+			<img src="data/artists/Robert_Kobayashi/img5_thb.jpg" alt="Robert_Kobayashi artwork detail" width="70" height="105" />
+		</div>
+				<div class="img_thb" onmouseover="changeImg('6');" onmousedown="changeImg('6');">
+			<img src="data/artists/Robert_Kobayashi/img6_thb.jpg" alt="Robert_Kobayashi artwork detail" width="70" height="105" />
+		</div>
+				<div class="img_thb" onmouseover="changeImg('7');" onmousedown="changeImg('7');">
+			<img src="data/artists/Robert_Kobayashi/img7_thb.jpg" alt="Robert_Kobayashi artwork detail" width="70" height="105" />
+		</div>
+				<div class="img_thb" onmouseover="changeImg('8');" onmousedown="changeImg('8');">
+			<img src="data/artists/Robert_Kobayashi/img8_thb.jpg" alt="Robert_Kobayashi artwork detail" width="70" height="105" />
+		</div>
+				<div class="img_thb" onmouseover="changeImg('9');" onmousedown="changeImg('9');">
+			<img src="data/artists/Robert_Kobayashi/img9_thb.jpg" alt="Robert_Kobayashi artwork detail" width="70" height="105" />
+		</div>
+				<div class="img_thb" onmouseover="changeImg('10');" onmousedown="changeImg('10');">
+			<img src="data/artists/Robert_Kobayashi/img10_thb.jpg" alt="Robert_Kobayashi artwork detail" width="70" height="105" />
+		</div>
+		</div>
+<div class="artlink"><a href="artists" title="View All Artists from Phyllis Stigliano Gallery">See all artists</a></div>
+			</div>
+			
+			<div id="credits">
+				&copy; 2004-2020 Phyllis Stigliano Gallery. All rights reserved.
+				<a href="http://www.siliconfarm.com" title="Silicon Farm Design &amp; IT Solutions">Built by www.siliconfarm.com</a>
+			</div>
+			
+		</div>
+		
+		<script type="text/javascript">
+		
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-363407-12']);
+		_gaq.push(['_trackPageview']);
+		
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+		})();
+		
+		</script>
+		
+	</body>
+	</html>
+	
+	
+		
+	

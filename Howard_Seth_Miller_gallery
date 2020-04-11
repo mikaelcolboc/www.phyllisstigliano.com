@@ -1,0 +1,112 @@
+	
+	<!DOCTYPE html>
+	<html lang="en-US">
+	<head>
+		
+		<meta charset="utf-8" />
+		<title>Howard Seth Miller, Selected Artworks</title>
+		
+		
+<meta name="description" content="Using his favorite equipment, a 5 x 7 view camera, fitted with an old-fashioned portrait lens, Howard Seth Miller creates provocative van dyke, or split-toned silver-gelatin black-and-white photographs.">
+<meta name="keywords" content="Howard Seth Miller, provocative, van dyke, split-toned, silver-gelatin, black-and-white photographs, 5 x 7 view camera, old-fashioned portrait lens, intricate narratives, self-revelatory, visual riddles, childhood adolescence adult">		
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta name="robots" content="index,follow">
+	<meta name="author" content="Phyllis Stigliano">
+		
+		<link rel="stylesheet" type="text/css" href="css/style.css" />
+		<script type="text/javascript" src="js/script.js"></script>
+		
+			</head>
+	
+	<body>
+		
+		<div id="frame">
+			<div id="leftCol">
+				<a href="index" id="address_header" title="Welcome To Phyllis Stigliano Art Gallery, 62 eighth Ave, Park Slope Brooklyn NY 11217"></a><br />
+				<a href="artists" id="artists" title="Artists Represented by Phyllis Stigliano"></a>
+				<a href="exhibits" id="exhibits" title="Current Exhibit at the Gallery"></a>
+				<a href="gallery" id="gallery" title="About Phyllis Stigliano Contemporary Art Gallery"></a>
+				<a href="project_room" id="project_room" title="Project Room with Carrie Iverson"></a>
+				<a href="coney_island" id="coney_island" title="Coney Island Panoramic Photos by Ron Meisel"></a>
+				<a href="moes_meat_market" id="moes_meat_market" title="Moe's Meat Market, a gallery"></a>
+				<a href="https://www.artnet.com/galleries/phyllis-stigliano-gallery/" target="_blank" id="artnet" title="Works for acquisition on artnet"></a>
+				<a href="contact" id="contact" title="Contact Info, Location &amp; Hours of the Gallery"></a>
+				
+			</div>
+			
+			<div id="rightCol">
+					<div id="large1" class="img_lrg">
+		<img src="data/artists/Howard_Seth_Miller/img1_lrg.jpg" alt="Howard_Seth_Miller artwork" width="360" height="324" />
+		<br />
+		<div class="credits">
+			<b>Solar System-Chicago</b>, archival inkjet pigment print &copy;1997		</div>
+	</div>
+		<div id="large2" class="img_lrg">
+		<img src="data/artists/Howard_Seth_Miller/img2_lrg.jpg" alt="Howard_Seth_Miller artwork" width="360" height="324" />
+		<br />
+		<div class="credits">
+			<b>Detail from center panel: Sam's Visit, No. 2</b>, archival inkjet pigment print<br />
+Full photograph: 24&quot; x 52&quot; &copy;1994 - 2006		</div>
+	</div>
+		<div id="large3" class="img_lrg">
+		<img src="data/artists/Howard_Seth_Miller/img3_lrg.jpg" alt="Howard_Seth_Miller artwork" width="360" height="324" />
+		<br />
+		<div class="credits">
+			<b>Building Pyramids-Chicago</b>, archival inkjet pigment print &copy;1987 - 2006		</div>
+	</div>
+	<script type="text/javascript">
+document.getElementById('large1').style.display='block';
+</script>
+
+<div id="headers">
+	<h1 class="title green frutiger-bold">
+		HOWARD SETH MILLER	</h1>
+	<div id="xtralink"></div>
+	<div class="artlink">
+		<a href="Howard_Seth_Miller" title="Bio of HowardSethMiller">
+			Back to Howard's Biography
+		</a>
+	</div>
+</div>
+
+<div id="thumbs">
+			<div class="img_thb" onmouseover="changeImg('1');" onmousedown="changeImg('1');">
+			<img src="data/artists/Howard_Seth_Miller/img1_thb.jpg" alt="Howard_Seth_Miller artwork detail" width="70" height="105" />
+		</div>
+				<div class="img_thb" onmouseover="changeImg('2');" onmousedown="changeImg('2');">
+			<img src="data/artists/Howard_Seth_Miller/img2_thb.jpg" alt="Howard_Seth_Miller artwork detail" width="70" height="105" />
+		</div>
+				<div class="img_thb" onmouseover="changeImg('3');" onmousedown="changeImg('3');">
+			<img src="data/artists/Howard_Seth_Miller/img3_thb.jpg" alt="Howard_Seth_Miller artwork detail" width="70" height="105" />
+		</div>
+		</div>
+<div class="artlink"><a href="artists" title="View All Artists from Phyllis Stigliano Gallery">See all artists</a></div>
+			</div>
+			
+			<div id="credits">
+				&copy; 2004-2020 Phyllis Stigliano Gallery. All rights reserved.
+				<a href="http://www.siliconfarm.com" title="Silicon Farm Design &amp; IT Solutions">Built by www.siliconfarm.com</a>
+			</div>
+			
+		</div>
+		
+		<script type="text/javascript">
+		
+		var _gaq = _gaq || [];
+		_gaq.push(['_setAccount', 'UA-363407-12']);
+		_gaq.push(['_trackPageview']);
+		
+		(function() {
+			var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+			ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+			(document.getElementsByTagName('head')[0] || document.getElementsByTagName('body')[0]).appendChild(ga);
+		})();
+		
+		</script>
+		
+	</body>
+	</html>
+	
+	
+		
+	
